@@ -1,6 +1,6 @@
 ---
-name: Erro no GTFS
-about: Preencha este relatório para identificar o erro.
+name: GTFS Error
+about: Please fill in this report to help identify the error.
 title: ''
 labels: ''
 assignees: ''
