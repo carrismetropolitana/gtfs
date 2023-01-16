@@ -1,0 +1,27 @@
+---
+name: Erro no GTFS
+about: Preencha este relatório para identificar o erro.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+**Descreva o erro**
+Uma explicação clara e concisa sobre o erro identificado.
+
+**Área(s) afetada(s)**
+Quais as áreas afetadas pelo erro identificado:
+- [ ] Área 1 (Viação Alvorada)
+- [ ] Área 2 (Rodoviária de Lisboa)
+- [ ] Área 3 (TST)
+- [ ] Área 4 (Alsa Todi)
+
+**Valor(es) esperado(s)**
+Se possível, uma descrição clara e concisa da situação sem erro / situação corrigida.
+
+**Screenshots**
+Se fizer sentido, adicionar imagens que podem ajudar a explicar o problema.
+
+**Contexto adicional**
+Adicione qualquer outra informação útil à resolução do problema.
