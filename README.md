@@ -3,4 +3,6 @@
 Neste repositório estão disponibilizados os GTFS das quatro áreas operadas pela Carris Metropolitana, que serão
 atualizados sempre que houver alterações.
 
-_Durante um período inicial não garantimos estabilidade no nome dos ficheiros._
+Os ficheiros estão em constante atualização. Se detetar algum erro por favor abra um novo Issue e seja o mais detalhado possível.
+
+_Durante um período inicial não é garantida a estabilidade do nome dos ficheiros._
