@@ -21,7 +21,7 @@ Quais as áreas afetadas pelo erro identificado:
 Se possível, uma descrição clara e concisa da situação sem erro / situação corrigida.
 
 **Screenshots**
-Se fizer sentido, adicionar imagens que podem ajudar a explicar o problema.
+Se fizer sentido, adicione imagens que ajudem a explicar o problema.
 
 **Contexto adicional**
 Adicione qualquer outra informação útil à resolução do problema.
