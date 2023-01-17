@@ -4,21 +4,21 @@ about: Please fill in this report to suggest an enhancement.
 title: ''
 labels: ''
 assignees: ''
-
 ---
 
-**Descrição**
+**Descrição**  
 Uma explicação clara e concisa sobre a sugestão.
 
-**Área(s) afetada(s)**
+**Área(s) afetada(s)**  
 A sugestão é relativa a que áreas?
+
 - [ ] Área 1 (Viação Alvorada)
 - [ ] Área 2 (Rodoviária de Lisboa)
 - [ ] Área 3 (TST)
 - [ ] Área 4 (Alsa Todi)
 
-**Screenshots**
+**Screenshots**  
 Se fizer sentido, adicione imagens que ajudem a passar a mensagem.
 
-**Contexto adicional**
+**Contexto adicional**  
 Adicione qualquer outra informação útil.
