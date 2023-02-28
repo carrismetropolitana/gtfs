@@ -1,0 +1,27 @@
+name: regional-merge
+
+on:
+  push:
+    branches:
+      - latest
+
+jobs:
+  regional-merge:
+    runs-on: ubuntu-latest
+
+    # Give write permission to the default GITHUB_TOKEN
+    permissions:
+      contents: write
+
+    steps:
+      # Checkout the repository into the Docker container
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+      # Run the merge workflow
+      - name: Run GTFS Regional Merger
+        uses: carrismetropolitana/merger@production
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          files-to-merge: CM_GTFS_A1.zip,CM_GTFS_A2.zip,CM_GTFS_A3.zip,CM_GTFS_A4.zip
