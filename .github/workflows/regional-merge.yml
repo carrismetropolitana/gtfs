@@ -3,8 +3,7 @@ name: regional-merge
 on:
   push:
     branches:
-      - latest
-      - tests
+      - next
 
 jobs:
   regional-merge:
