@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,default_lang,feed_contact_url,feed_version
+Carris Metropolitana,https://www.carrismetropolitana.pt,pt,en,https://github.com/carrismetropolitana/gtfs,43186aa
