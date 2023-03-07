@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - latest
+      - tests
 
 jobs:
   regional-merge:
