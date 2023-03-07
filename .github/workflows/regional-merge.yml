@@ -3,7 +3,7 @@ name: regional-merge
 on:
   push:
     branches:
-      - latest
+      - next
 
 jobs:
   regional-merge:
@@ -25,3 +25,4 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           files-to-merge: CM_GTFS_A1.zip,CM_GTFS_A2.zip,CM_GTFS_A3.zip,CM_GTFS_A4.zip
+          gtfs-common-files-directory: gtfs-common-files

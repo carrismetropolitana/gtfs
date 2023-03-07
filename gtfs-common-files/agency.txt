@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_email
+CM,Carris Metropolitana,https://www.carrismetropolitana.pt,Europe/Lisbon,pt,+351 210 418 800,contacto@carrismetropolitana.pt

@@ -1,0 +1,7 @@
+fare_id,fare_short_name,fare_long_name,price,currency_type,payment_method,transfers,agency_id
+PROXIMA,P,Linha Próxima,1.25,EUR,0,0,CM
+LONGA,L,Linha Longa,2.60,EUR,0,0,CM
+RAPIDA,R,Linha Rápida,4.50,EUR,0,0,CM
+MAR,M,Linha Mar,4.50,EUR,0,0,CM
+INTER-REGIONAL-A,I,Linha Inter-Regional,3.10,EUR,0,0,CM
+INTER-REGIONAL-B,I,Linha Inter-Regional,3.60,EUR,0,0,CM
