@@ -5,6 +5,7 @@ on:
     branches:
       - live
       - next
+      - tests
 
 jobs:
   regional-merge:
