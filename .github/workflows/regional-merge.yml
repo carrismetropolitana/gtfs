@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - live
+      - next
 
 jobs:
   regional-merge:
