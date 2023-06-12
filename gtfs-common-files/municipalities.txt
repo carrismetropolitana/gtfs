@@ -1,0 +1,23 @@
+dico,name,prefix,district,nuts_iii
+1502,Alcochete,01,Setúbal,PT170
+1503,Almada,02,Setúbal,PT170
+1115,Amadora,03,Lisboa,PT170
+1504,Barreiro,04,Setúbal,PT170
+1105,Cascais,05,Lisboa,PT170
+1106,Lisboa,06,Lisboa,PT170
+1107,Loures,07,Lisboa,PT170
+1109,Mafra,08,Lisboa,PT170
+1506,Moita,09,Setúbal,PT170
+1507,Montijo,10,Setúbal,PT170
+1116,Odivelas,11,Lisboa,PT170
+1110,Oeiras,12,Lisboa,PT170
+1508,Palmela,13,Setúbal,PT170
+1510,Seixal,14,Setúbal,PT170
+1511,Sesimbra,15,Setúbal,PT170
+1512,Setúbal,16,Setúbal,PT170
+1111,Sintra,17,Lisboa,PT170
+1114,Vila Franca de Xira,18,Lisboa,PT170
+0712,Vendas Novas,19,Évora,PT187
+1101,Alenquer,20,Lisboa,PT16B
+1102,Arruda dos Vinhos,20,Lisboa,PT16B
+1113,Torres Vedras,20,Lisboa,PT16B
