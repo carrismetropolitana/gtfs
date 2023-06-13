@@ -1,4 +1,4 @@
-dico,name,prefix,district,nuts_iii
+municipality_id,municipality_name,prefix,district,nuts_iii
 1502,Alcochete,01,Setúbal,PT170
 1503,Almada,02,Setúbal,PT170
 1115,Amadora,03,Lisboa,PT170
