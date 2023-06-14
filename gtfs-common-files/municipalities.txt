@@ -1,23 +1,23 @@
-municipality_id,municipality_name,prefix,district,nuts_iii
-1502,Alcochete,01,Setúbal,PT170
-1503,Almada,02,Setúbal,PT170
-1115,Amadora,03,Lisboa,PT170
-1504,Barreiro,04,Setúbal,PT170
-1105,Cascais,05,Lisboa,PT170
-1106,Lisboa,06,Lisboa,PT170
-1107,Loures,07,Lisboa,PT170
-1109,Mafra,08,Lisboa,PT170
-1506,Moita,09,Setúbal,PT170
-1507,Montijo,10,Setúbal,PT170
-1116,Odivelas,11,Lisboa,PT170
-1110,Oeiras,12,Lisboa,PT170
-1508,Palmela,13,Setúbal,PT170
-1510,Seixal,14,Setúbal,PT170
-1511,Sesimbra,15,Setúbal,PT170
-1512,Setúbal,16,Setúbal,PT170
-1111,Sintra,17,Lisboa,PT170
-1114,Vila Franca de Xira,18,Lisboa,PT170
-0712,Vendas Novas,19,Évora,PT187
-1101,Alenquer,20,Lisboa,PT16B
-1102,Arruda dos Vinhos,20,Lisboa,PT16B
-1113,Torres Vedras,20,Lisboa,PT16B
+municipality_prefix,municipality_id,municipality_name,district_id,district_name,region_id,region_name
+01,1502,Alcochete,15,Setúbal,PT170,AML
+02,1503,Almada,15,Setúbal,PT170,AML
+03,1115,Amadora,11,Lisboa,PT170,AML
+04,1504,Barreiro,15,Setúbal,PT170,AML
+05,1105,Cascais,11,Lisboa,PT170,AML
+06,1106,Lisboa,11,Lisboa,PT170,AML
+07,1107,Loures,11,Lisboa,PT170,AML
+08,1109,Mafra,11,Lisboa,PT170,AML
+09,1506,Moita,15,Setúbal,PT170,AML
+10,1507,Montijo,15,Setúbal,PT170,AML
+11,1116,Odivelas,11,Lisboa,PT170,AML
+12,1110,Oeiras,11,Lisboa,PT170,AML
+13,1508,Palmela,15,Setúbal,PT170,AML
+14,1510,Seixal,15,Setúbal,PT170,AML
+15,1511,Sesimbra,15,Setúbal,PT170,AML
+16,1512,Setúbal,15,Setúbal,PT170,AML
+17,1111,Sintra,11,Lisboa,PT170,AML
+18,1114,Vila Franca de Xira,11,Lisboa,PT170,AML
+19,0712,Vendas Novas,07,Évora,PT187,Alentejo Central
+20,1101,Alenquer,11,Lisboa,PT16B,Oeste
+20,1102,Arruda dos Vinhos,11,Lisboa,PT16B,Oeste
+20,1113,Torres Vedras,11,Lisboa,PT16B,Oeste
