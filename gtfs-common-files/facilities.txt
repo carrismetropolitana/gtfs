@@ -1,7 +1,7 @@
 facility_id,facility_type,facility_name,facility_lat,facility_lon,A1,A2,A3,A4,facility_phone,facility_email,facility_url,address,postal_code,locality,parish_id,parish_name,municipality_id,municipality_name,district_id,district_name,region_id,region_name,facility_stops
-101,school,Colégio Penas Real,38.728200,-8.948074,0,0,0,1,212342474,,,Estrada Real - Sítio da Lagoa Cheia,2890-304 SÃO FRANCISCO,Alcochete,,,1502,Alcochete,15,Setúbal,PT170,AML,
-102,school,"Escola Básica El Rei D. Manuel I, Alcochete",38.750534,-8.963782,0,0,0,1,212348730,,,Avenida da Restauração,2890-012 ALCOCHETE,Alcochete,,,1502,Alcochete,15,Setúbal,PT170,AML,
-103,school,Escola Secundária de Alcochete,38.747078,-8.963258,0,0,0,1,212349620,,,Rua da Escola Secundária - Sítio dos Barris,2890-006 ALCOCHETE,Alcochete,,,1502,Alcochete,15,Setúbal,PT170,AML,
+101,school,Colégio Penas Real,38.728092,-8.948021,0,0,0,1,212342474,,,Estrada Real - Sítio da Lagoa Cheia,2890-304 SÃO FRANCISCO,Alcochete,,,1502,Alcochete,15,Setúbal,PT170,AML,"010173,010174"
+102,school,"Escola Básica El Rei D. Manuel I, Alcochete",38.750534,-8.963782,0,0,0,1,212348730,,,Avenida da Restauração,2890-012 ALCOCHETE,Alcochete,,,1502,Alcochete,15,Setúbal,PT170,AML,"010009,010010"
+103,school,Escola Secundária de Alcochete,38.747470,-8.963741,0,0,0,1,212349620,,,Rua da Escola Secundária - Sítio dos Barris,2890-006 ALCOCHETE,Alcochete,,,1502,Alcochete,15,Setúbal,PT170,AML,"010071,010043"
 104,school,CERCIMB Coop. Educaç. Reab. Cri. Inadaptadas,38.665278,-9.050050,0,0,0,1,212077080,,,Rua Grão Vasco, ,Lavradio,,,1504,Barreiro,15,Setúbal,PT170,AML,
 105,school,Colégio Minerva,38.660004,-9.081617,0,0,0,1,212154541,,,"Rua Alto da Paiva, nº 18",2830-032 BARREIRO,Barreiro,,,1504,Barreiro,15,Setúbal,PT170,AML,
 106,school,Escola Profissional Bento de Jesus Caraça (Deleg.),38.665457,-9.069592,0,0,0,1,212064790,,,"Largo da Quinta Grande, nº 11",2830-249 BARREIRO,Barreiro,,,1504,Barreiro,15,Setúbal,PT170,AML,
