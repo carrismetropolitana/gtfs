@@ -64,3 +64,5 @@ facility_id,facility_type,facility_name,facility_lat,facility_lon,A1,A2,A3,A4,fa
 163,school,"Escola Básica de Aranguez, Setúbal",38.527670,-8.885132,0,0,0,1,265541120,,,R. do Mirante,2910-609 SETÚBAL,Setúbal,,,1512,Setúbal,15,Setúbal,PT170,AML,
 164,school,"Escola Secundária Sebastião da Gama, Setúbal",38.526833,-8.891502,0,0,0,1,265523176,,,Rua da Escola Técnica,2900-354 SETÚBAL,Setúbal,,,1512,Setúbal,15,Setúbal,PT170,AML,
 165,school,Centro de Formação Profissional de Setúbal,38.532037,-8.881156,0,0,0,1, ,,, R. António José Baptista 86, ,Setúbal,,,1512,Setúbal,15,Setúbal,PT170,AML,
+201,university,Exemplo Universidade 1,38.532037,-8.881156,0,0,0,1,,,,Rua Exemplo 201,,Setúbal,,,1512,Setúbal,15,Setúbal,PT170,AML,
+301,hospital,Exemplo Hospital 1,38.532037,-8.881156,0,0,0,1,,,,Rua Exemplo 301,,Setúbal,,,1512,Setúbal,15,Setúbal,PT170,AML,
