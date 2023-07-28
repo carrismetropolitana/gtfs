@@ -2,7 +2,6 @@
 
 # GTFS oficial da Carris Metropolitana
 
-Neste repositório estão disponibilizados os GTFS das quatro áreas operadas pela Carris Metropolitana, que serão
-atualizados sempre que houver alterações.
+Neste repositório é disponibilizado o GTFS da Carris Metropolitana, assim como os 4 arquivos originais das quatro áreas. O GTFS que deverá ser utilizado é o CarrisMetropolitana.zip.
 
 Os ficheiros estão em constante atualização. Se detetar algum erro por favor [abra um novo Issue](https://github.com/carrismetropolitana/gtfs/issues/new/choose) e seja o mais detalhado possível.
