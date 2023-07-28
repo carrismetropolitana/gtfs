@@ -27,4 +27,5 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           files-to-merge: CM_GTFS_A1.zip,CM_GTFS_A2.zip,CM_GTFS_A3.zip,CM_GTFS_A4.zip,CM_GTFS_A3_FLEX.zip
-          gtfs-common-files-directory: gtfs-common-files
+          gtfs-origin-feeds-directory: feeds
+          gtfs-common-files-directory: files
