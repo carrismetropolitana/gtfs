@@ -20,4 +20,5 @@ municipality_prefix,municipality_id,municipality_name,district_id,district_name,
 19,0712,Vendas Novas,07,Évora,PT187,Alentejo Central
 20,1101,Alenquer,11,Lisboa,PT16B,Oeste
 20,1102,Arruda dos Vinhos,11,Lisboa,PT16B,Oeste
+20,1112,Sobral de Monte Agraço,11,Lisboa,PT16B,Oeste
 20,1113,Torres Vedras,11,Lisboa,PT16B,Oeste
