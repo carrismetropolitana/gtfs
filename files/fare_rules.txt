@@ -1,3 +1,4 @@
+route_id,fare_id 
 1001_0,LONGA
 1002_0,LONGA
 1003_0,LONGA
