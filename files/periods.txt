@@ -1,0 +1,4 @@
+period_id,period_name
+1,Período Escolar
+2,Período de Férias Escolares
+3,Período de Verão
